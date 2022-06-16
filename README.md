@@ -37,6 +37,9 @@ Primarily adds music for the Greece and The Middle East mod(Not Out Yet),adds so
 
 * Sumeria
 
+* Hungary
+
+
 # Greece & The Middle East(Not Out Yet) -
 
 * Crete
