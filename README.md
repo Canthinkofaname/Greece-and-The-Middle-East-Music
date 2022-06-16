@@ -24,6 +24,8 @@ Primarily adds music for the Greece and The Middle East mod(Not Out Yet),adds so
 
 * Japan
 
+* France
+
 # Ancient Civlizations -
 
 * Israel
