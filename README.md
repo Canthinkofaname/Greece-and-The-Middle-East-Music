@@ -1,43 +1,43 @@
 # Greece-and-The-Middle-East-Music
 Primarily adds music for the Greece and The Middle East mod(Not Out Yet),adds some themes for base game music,and adds 2 themes for the Ancient Civilizations Mod. Will be updated to include more nations in the Ancient Civlizations mod,and will possibly add some Medival Civlization Themes.
 
-Includes 10 Ambients and 1 Menu Theme
-* MAKE SURE TO MARK AS PERMANANT AUDIOVIUSAL MOD IF YOU WANT TO HEAR THE ANNOYING MENU THEME!!!!! *
+* Includes 10 Ambients and 1 Menu Theme
+* MAKE SURE TO MARK AS PERMANANT AUDIOVIUSAL MOD IF YOU WANT TO HEAR THE ANNOYING MENU THEME!!!!!
 
 # Base Game -
 
-The Ottomans(Peace Theme)
+* The Ottomans(Peace Theme)
 
-The Ottomans(War Theme)
+* The Ottomans(War Theme)
 
-Arabia
+* Arabia
 
-Carthage
+* Carthage
 
-Byzantium
+* Byzantium
 
-Persia
+* Persia
 
-Babylon
+* Babylon
 
-Greece
+* Greece
 
-Japan
+* Japan
 
 # Ancient Civlizations -
 
-Israel
+* Israel
 
-Sumeria
+* Sumeria
 
 # Greece & The Middle East(Not Out Yet) -
 
-Crete
+* Crete
 
-Macedon
+* Macedon
 
-Sparta
+* Sparta
 
-Timurids
+* Timurids
 
-Lydia
+* Lydia
